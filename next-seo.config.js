@@ -2,7 +2,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en',
-    url: 'https://design-code.tips',
-    site_name: 'design-code.tips',
+    url: 'https://ubuntucore.co.za',
+    site_name: 'KD Property Management',
   },
 };
