@@ -3,6 +3,6 @@ export default {
     type: 'website',
     locale: 'en',
     url: 'https://ubuntucore.co.za',
-    site_name: 'KD Property Management',
+    site_name: 'ubuntucore',
   },
 };
